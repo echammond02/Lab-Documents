@@ -14,7 +14,6 @@ Welcome to the **Cybersecurity and Network Engineering Lab** repository. This re
 - [Network Security & Firewalls](#network-security--firewalls)
 - [Penetration Testing](#penetration-testing)
 - [SAN Administration](#san-administration)
-- [Systems Administration](#systems-administration)
 - [Wireless Networking & Security](#wireless-networking--security)
 
 ## Folder Descriptions
