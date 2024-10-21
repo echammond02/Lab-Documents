@@ -1,6 +1,6 @@
 # Cybersecurity and Network Engineering Labs
 
-Welcome to the **Cybersecurity and Network Engineering Lab** repository. This repository serves as a collection of documents, code, and configurations that highlight key areas in network engineering, systems administration, cybersecurity, and penetration testing. Each folder corresponds to a specific series of labs with all configurations and documentation included.
+Welcome to the **Cybersecurity and Network Engineering Lab** repository. This repository serves as a collection of documents, code, and configurations that highlight takeaways from my Purdue University labs in network engineering, systems administration, cybersecurity, and penetration testing during my Bachelor's. Each folder corresponds to a specific series of labs with all configurations and documentation included.
 
 ## Table of Contents
 
