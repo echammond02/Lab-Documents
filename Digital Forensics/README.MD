@@ -29,11 +29,11 @@ Lab Summaries
 
 Key Concepts
 
-    Recovering hidden data from files using forensic tools.
-    Analyzing file signatures and timestamps using hex editors.
-    Extracting and investigating system files like the Windows registry and user account data.
-    Drive imaging techniques for preserving evidence and ensuring data integrity.
-    Using hashing algorithms to verify the authenticity of forensic images.
-    Exploring metadata to uncover file origins and user activities.
+- Recovering hidden data from files using forensic tools.
+- Analyzing file signatures and timestamps using hex editors.
+- Extracting and investigating system files like the Windows registry and user account data.
+- Drive imaging techniques for preserving evidence and ensuring data integrity.
+- Using hashing algorithms to verify the authenticity of forensic images.
+- Exploring metadata to uncover file origins and user activities.
 
 Each lab includes detailed procedures, tool configurations, results, and troubleshooting steps, providing a comprehensive approach to digital forensic investigations.
