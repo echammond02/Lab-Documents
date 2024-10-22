@@ -1,6 +1,6 @@
 # C Programming Lab Reports
 
-This folder contains documentation of labs focused on C programming concepts, including data structures, mathematical computations, and algorithm implementations. These labs explore linked lists, tree structures, and complex calculations, highlighting both theoretical and practical applications of C programming.
+This folder contains documentation of labs focused on C programming concepts, including data structures, math problems, and algorithm implementations. These labs explore linked lists, tree structures, and complex function calling, highlighting practical applications of C programming.
 
 ## Lab Summaries
 
@@ -24,8 +24,8 @@ Key Concepts:
 This lab involves a **menu-driven program** that allows users to perform a variety of mathematical operations. The program can calculate the **volume and cost of filling a pool or hot tub**, compute the **factorial** of a number, solve the **Tower of Hanoi problem**, and generate **Fibonacci sequences**. All operations are implemented in C with recursive and iterative approaches.
 
 Key Concepts:
-- Mathematical operations in C (volume, factorial, Fibonacci)
-- Recursive solutions (Tower of Hanoi)
+- Math operations in C
+- Recursive solutions
 - Menu-driven user interface
 
 ## Key Takeaways
@@ -34,6 +34,3 @@ These labs provide hands-on experience with:
 - **Recursive algorithms** for solving mathematical problems
 - **Practical programming techniques** using menus and user input handling
 - **Memory management** with dynamic allocation
-
-Each lab offers step-by-step implementation details and emphasizes building efficient, maintainable code. The experience gained from these labs is applicable to both systems programming and software development.
-
